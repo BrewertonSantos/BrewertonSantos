@@ -47,10 +47,10 @@
 
 <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="JetBrains Datagrip" src="https://img.shields.io/badge/-Jetbrains%20DataGrip-302E31?logo=datagrip"></a>
-    <a href="#"><img alt="JetBrains Rider" src="https://img.shields.io/badge/-Jetbrains%20Rider-302E31?logo=rider"></a>
+    <a href="https://www.jetbrains.com/datagrip/?msclkid=15499f38073d1d81889dfb481ca17ef7&utm_source=bing&utm_medium=cpc&utm_campaign=AMER_en_BR_DataGrip_Branded&utm_term=datagrip&utm_content=datagrip"><img alt="JetBrains Datagrip" src="https://img.shields.io/badge/-Jetbrains%20DataGrip-302E31?logo=datagrip"></a>
+    <a href="https://www.jetbrains.com/rider/"><img alt="JetBrains Rider" src="https://img.shields.io/badge/-Jetbrains%20Rider-302E31?logo=rider"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <hr/>
