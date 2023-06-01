@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0969da&center=true&vCenter=true&lines=Projetos+perform%C3%A1ticos;Artigos+t%C3%A9cnico%2Fcient%C3%ADficos;Tecnologias+atualizadas;Gest%C3%A3o+de+projetos+e+equipes">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0969da&center=true&vCenter=true&lines=Performatic+algorithms;Technical+and+scientific+articles;">
 </p>
 
 <p align="center">
